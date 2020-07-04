@@ -1,2 +1,1 @@
-export * from './browser';
-export * from './postcss-plugin';
+export declare function viewportUnitOnMobile(): void;

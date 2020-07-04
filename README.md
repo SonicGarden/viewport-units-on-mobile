@@ -19,7 +19,7 @@ viewportUnitOnMobile();
 ```javascript
 module.exports = {
   plugins: [
-    require('@sonicgarden/viewport-units-on-mobile').postcssPlugin,
+    require('@sonicgarden/viewport-units-on-mobile/lib/postcss-plugin'),
   ],
 }
 
