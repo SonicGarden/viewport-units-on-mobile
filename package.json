@@ -1,0 +1,18 @@
+{
+  "name": "@sonicgarden/viewport-units-on-mobile",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "aki77",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6",
+    "xo": "^0.32.1"
+  },
+  "dependencies": {
+    "debounce-fn": "^4.0.0",
+    "postcss": "^7.0.32"
+  }
+}
