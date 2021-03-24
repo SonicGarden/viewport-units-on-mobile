@@ -8,11 +8,11 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "typescript": "^3.9.6",
-    "xo": "^0.32.1"
+    "typescript": "^4.2.3",
+    "xo": "^0.38.2"
   },
   "dependencies": {
-    "debounce-fn": "^4.0.0",
+    "debounce-fn": "^5.0.0",
     "postcss": "^7.0.32"
   }
 }
