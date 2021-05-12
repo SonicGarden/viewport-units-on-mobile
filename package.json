@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "debounce-fn": "^5.0.0",
-    "postcss": "^7.0.32"
+    "postcss": "^8.2.10"
   }
 }
